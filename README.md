@@ -1,33 +1,31 @@
-📌 Project Title
+**Swiggy Sales & Operations Dashboard (Excel Project)**
 
-Swiggy Sales & Operations Dashboard (Excel Project)
-
-📊 Project Overview
+**📊 Project Overview**
 
 This project is an interactive Excel dashboard created to analyze Swiggy sales and operational data. It provides insights into order trends, revenue, customer behavior, and food category performance.
 
-🎯 Objective
+**🎯 Objective**
 Analyze overall sales performance
 Track monthly and quarterly trends
 Identify top-performing categories and items
 Understand veg vs non-veg demand
 Improve decision-making using data visualization
 
-🛠️ Tools & Technologies Used
+**🛠️ Tools & Technologies Used**
 Microsoft Excel
 Pivot Tables
 Pivot Charts
 Slicers
 Data Cleaning Techniques
 
-📈 Key Insights
+**📈 Key Insights**
 Monthly sales trends analysis
 Top-selling food categories
 Veg vs Non-Veg comparison
 Order distribution patterns
 Revenue performance overview
 
-📌 Features
+**📌 Features**
 Interactive dashboard with slicers
 Dynamic charts and visuals
 User-friendly layout
@@ -37,7 +35,7 @@ Real-time filtering options
 
 
 
-💡 Learnings
+**💡 Learnings**
 Improved data cleaning skills
 Hands-on experience with dashboard creation
 Better understanding of business insights
