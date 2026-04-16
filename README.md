@@ -33,6 +33,10 @@ Dynamic charts and visuals
 User-friendly layout
 Real-time filtering options
 
+<img width="1276" height="766" alt="image" src="https://github.com/user-attachments/assets/f071a5de-2f8c-4d97-87ad-2caeb3644a7d" />
+
+
+
 💡 Learnings
 Improved data cleaning skills
 Hands-on experience with dashboard creation
